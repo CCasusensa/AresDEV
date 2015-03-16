@@ -1,0 +1,14 @@
+							AresDEV
+
+[Information]
+AresDEV is a public project started by me, Caezer.
+I am not really good with MapleStory development, nor Java.
+But I want to learn.
+
+[Revision 1]
++ Based off MoopleDEV Revision 120
++ Project->Source->Format & Project->Source->Clean Up...
++ Tweaked Script Engine for Java 8 ( Credits: http://forum.ragezone.com/f427/tweaking-script-engine-java-8-a-1008662/ )
++ Implemented NX format ( Not working as of yet, some minor bugs. Credits: http://forum.ragezone.com/f427/moopledev-rev120-nx-patch-937004/ )
+- Removed MoopleDEV's INI usage
++ Kinda "fucked up" Moople's multi world. Using an enum in ServerConstants for now to load the worlds. ( Bad coding )

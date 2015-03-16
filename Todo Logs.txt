@@ -1,0 +1,8 @@
+~Implement a better way of handling multi world.
+      For example, a world can has it's own "server" message. ( Need ideas on how to go about doing this, perhaps a WorldConstants.java for defining worlds (?) )
+~Fix up and revamp MoopleDev's original commands.
+      I think MoopleDev Revision 120 doesn't have a warp command.
+~Fix up the Maple Watch Leaf Brigade ( Need help on this one. No idea how it works )
+      Make it so that it only happens to normal GM and below.
+~Fix up NX implementation.
+       Most .nx files give a NULL pointer exception after loading or parsing. One example, Skill.nx. Somehow UI.nx and Sound.nx work 100% fine.
